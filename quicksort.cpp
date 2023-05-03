@@ -28,7 +28,7 @@ void qSort( int arr[], int low, int high)
 }
 void printArray(int arr[], int N)
 {
-    for( int i = 0; i < N ; i++)
+    for( int i = 0; i < N ; i++)+
     {
         cout << arr[i] <<" ";
     }
